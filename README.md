@@ -18,7 +18,7 @@ El proyecto se llevó a cabo utilizando **Cisco Packet Tracer**. La implementaci
 **¿Qué hace?**
 Busca analizar el funcionamiento de la capa de enlace, profundizando en el comportamiento del protocolo ARP, la actualización de las tablas de direcciones físicas y las diferencias en la gestión del tráfico entre dispositivos de interconexión.
 
-![Topología Red A] <img width="991" height="425" alt="imagen" src="https://github.com/user-attachments/assets/82135a81-f11d-4913-b915-f2fd87f03099" />
+<img width="991" height="425" alt="imagen" src="https://github.com/user-attachments/assets/82135a81-f11d-4913-b915-f2fd87f03099" />
 
 
 **¿Cómo lo hace?**
@@ -33,7 +33,7 @@ Busca analizar el funcionamiento de la capa de enlace, profundizando en el compo
 **¿Qué hace?**
 Se centra en la capa de Red, con el objetivo principal de realizar un subnetting eficiente y comprobar el enrutamiento de paquetes entre múltiples subredes internas y un servidor ubicado en una red externa.
 
-![Topología Red B]<img width="876" height="372" alt="imagen" src="https://github.com/user-attachments/assets/17067041-5531-4bad-86ea-20155da32729" />
+<img width="876" height="372" alt="imagen" src="https://github.com/user-attachments/assets/17067041-5531-4bad-86ea-20155da32729" />
 
 
 **¿Cómo lo hace?**
